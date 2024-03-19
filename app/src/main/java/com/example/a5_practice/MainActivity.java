@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void toRecycleActivity(View view){
-        Intent intent = new Intent(this, RecyclerView.class);
+        Intent intent = new Intent(this, RecycleActivity.class);
         startActivity(intent);
     }
 
