@@ -2,7 +2,9 @@ package com.example.a5_practice;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ArrayAdapter;
 
 public class Spinner extends AppCompatActivity {
@@ -20,5 +22,10 @@ public class Spinner extends AppCompatActivity {
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
 
         spinnerName.setAdapter(adapter);
+    }
+
+    public void backToMain(View view){
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
     }
 }
