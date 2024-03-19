@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bananas">
+        <item>Golden</item>
+        <item>Small size</item>
+        <item>Sweet</item>
+    </string-array>
+
+    <string-array name="apples">
+        <item>Seasons</item>
+        <item>Green apple</item>
+        <item>Red one</item>
+        <item>Salty</item>
+    </string-array>
+
+    <string-array name="cherries">
+        <item>Сорт 1 яблок</item>
+        <item>Сорт 2 яблок</item>
+        <item>Сорт 3 яблок</item>
+    </string-array>
+
+    <string-array name="pears">
+        <item>Сорт 1 яблок</item>
+        <item>Сорт 2 яблок</item>
+        <item>Сорт 3 яблок</item>
+    </string-array>
+
+    <string-array name="melons">
+        <item>Сорт 1 яблок</item>
+        <item>Сорт 2 яблок</item>
+        <item>Сорт 3 яблок</item>
+    </string-array>
+
+    <string-array name="watermelons">
+        <item>Сорт 1 яблок</item>
+        <item>Сорт 2 яблок</item>
+        <item>Сорт 3 яблок</item>
+    </string-array>
+
+    <string-array name="peaches">
+        <item>Сорт 1 яблок</item>
+        <item>Сорт 2 яблок</item>
+        <item>Сорт 3 яблок</item>
+    </string-array>
+
+    <string-array name="lemons">
+        <item>Сорт 1 яблок</item>
+        <item>Сорт 2 яблок</item>
+        <item>Сорт 3 яблок</item>
+    </string-array>
+
+    <string-array name="cucumbers">
+        <item>Сорт 1 яблок</item>
+        <item>Сорт 2 яблок</item>
+        <item>Сорт 3 яблок</item>
+    </string-array>
+
+    <string-array name="mandarins">
+        <item>Сорт 1 яблок</item>
+        <item>Сорт 2 яблок</item>
+        <item>Сорт 3 яблок</item>
+    </string-array>
+
+    <string-array name="cocos">
+        <item>Сорт 1 яблок</item>
+        <item>Сорт 2 яблок</item>
+        <item>Сорт 3 яблок</item>
+    </string-array>
+
+
+</resources>
